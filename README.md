@@ -1,5 +1,9 @@
 ![grab-landing-page](https://itzlarsen.xyz/uploads/images/u9m4xRqQkvQf3L7F4UFeJdxrw.gif)
 
+# THIS is my edited version of https://github.com/KevinGirardx/qb-phone-npstyle did some changes to css and some other stuff
+
+# No SUPPORT Provided for this by me KevinGirardx.
+
 # qb-phone
 Phone for QB-Core Framework. Edited for a NP-Style look with a few extra things, This file has been edited with the changes noted
 
