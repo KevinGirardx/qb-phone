@@ -1,6 +1,6 @@
 ![grab-landing-page](https://itzlarsen.xyz/uploads/images/u9m4xRqQkvQf3L7F4UFeJdxrw.gif)
 
-# THIS is my edited version of https://github.com/KevinGirardx/qb-phone-npstyle did some changes to css and some other stuff
+# THIS is my edited version of https://github.com/clmillzz/qb-phone-npstyle did some changes to css and some other stuff
 
 # No SUPPORT Provided for this by me KevinGirardx.
 
