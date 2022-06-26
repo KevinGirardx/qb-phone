@@ -2,7 +2,7 @@
 
 # THIS is my edited version of https://github.com/clmillzz/qb-phone-npstyle did some changes to css and some other stuff
 
-# No SUPPORT Provided for this by me KevinGirardx.
+# NO SUPPORT PROVIDED for this by - KevinGirardx. ( As its not mine, i just changed the looks of it)
 
 # qb-phone
 Phone for QB-Core Framework. Edited for a NP-Style look with a few extra things, This file has been edited with the changes noted
